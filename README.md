@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.ibb.co/Y33Z2b7/data-science-banner.png" alt="Data Science Banner" width="100%" />
-</p>
+<a href="https://pareshpatil-portfolio.netlify.app/" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="MasterHead">
+</a>
 
 <h1 align="center">👋 Hi, I'm Prasad B</h1>
 <p align="center">
@@ -32,9 +32,6 @@ I enjoy extracting actionable insights from data and building intelligent system
 | 📰 **Fake News Detection** | TF-IDF + Logistic Regression to classify news as fake/real | `NLP`, `Scikit-learn`, `Text Classification` |
 | 📚 **20+ Data Science Assignments** | Covered EDA, MLR, Clustering, PCA, SVM, XGBoost, NN | `Stats`, `ML`, `Python` |
 
-📷 Add your project screenshots here for better visuals:
-- ![Posture App Demo](https://your-image-link.com/posture.png)
-- ![AAPL App Screenshot](https://your-image-link.com/aapl-app.png)
 
 ---
 
