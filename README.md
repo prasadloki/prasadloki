@@ -61,6 +61,16 @@ I enjoy extracting actionable insights from data and building intelligent system
 
 ---
 
+## 🏅 Certifications
+
+- 📜 **Data Science Certification** — Issued by **ExcelR**  
+  *Completed comprehensive training covering data preprocessing, exploratory data analysis, statistical modeling, machine learning, and deployment.*
+
+- 🤖 **AI/ML Virtual Internship Certificate** — Issued by **EduSkills**  
+  *Gained practical experience in building ML models, solving real-world problems, and applying AI in domains such as computer vision and NLP.*
+
+---
+
 ## 📫 Let’s Connect
 
 - 📧 Email: **[bodduboinaprasad@gmail.com](mailto:bodduboinaprasad@gmail.com)**
