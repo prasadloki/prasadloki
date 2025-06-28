@@ -2,7 +2,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="MasterHead">
 </a>
 
-<h1 align="center">👋 Hi, I'm Prasad B</h1>
+<h1 align="center">👋 Hi, I'm Prasad </h1>
 <p align="center">
   🚀 Data Scientist | 🤖 ML & DL Enthusiast | 🧠 AI Evaluator | 🛠️ Problem Solver
 </p>
