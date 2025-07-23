@@ -74,7 +74,7 @@ I enjoy extracting actionable insights from data and building intelligent system
 ## 📫 Let’s Connect
 
 - 📧 Email: **[bodduboinaprasad@gmail.com](mailto:bodduboinaprasad@gmail.com)**
-- 💼 LinkedIn: **[linkedin.com/in/prasad421](https://www.linkedin.com/in/prasad421)**
+- 💼 LinkedIn: **[prasad421](https://www.linkedin.com/in/prasad421)**
 - 🌐 Portfolio: *(Coming Soon)*
 
 ---
