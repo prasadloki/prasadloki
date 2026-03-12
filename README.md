@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Data Analysis Banner.png" width="100%">
+</p>
 </a>
 
 <h1 align="center">👋 Hi, I'm Prasad</h1>
@@ -14,7 +16,7 @@
 I enjoy transforming raw data into meaningful insights that help organizations make better decisions.
 
 - 📊 Skilled in **Data Analysis, Data Cleaning, and Exploratory Data Analysis (EDA)**
-- 🧮 Experienced with `Excel`, `SQL`, `Python (Pandas, NumPy)` and `Tableau`
+- 🧮 Experienced with `Excel`, `SQL`, `Power BI`, `Python (Pandas, NumPy)` and `Tableau`
 - 📈 Build interactive dashboards for **business insights and reporting**
 - 🧠 Strong foundation in **statistics and analytical problem solving**
 - 📌 Contributor to **AI annotation projects focused on reasoning and model evaluation**
@@ -63,8 +65,8 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 
 ## 📫 Let’s Connect
 
-- 📧 Email: **bodduboinaprasad@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/prasad421**
+- 📧 Email: **[bodduboinaprasad@gmail.com](mailto:bodduboinaprasad@gmail.com)**
+- 💼 LinkedIn: **[prasad421](https://www.linkedin.com/in/prasad421)**
 - 🌐 Portfolio: *(Coming Soon)*
 
 ---
