@@ -55,6 +55,9 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 
 ## 🏅 Certifications
 
+- 📜 **Google Advanced Data Analytics Capstone — Coursera**  
+  Completed an end-to-end analytics project involving **data cleaning**, exploratory data analysis **(EDA)**, statistical analysis, machine learning model building, and communicating actionable **business insights** through visualizations and reports.
+  
 - 📜 **Data Science Certification — ExcelR**  
   Completed training covering **data preprocessing, exploratory data analysis, statistical modeling, machine learning, and deployment**.
 
