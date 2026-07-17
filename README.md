@@ -26,10 +26,11 @@ I enjoy transforming raw data into meaningful insights that help organizations m
 ## 💼 Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|-------------|
-| 📊 **Blinkit Grocery Sales Analysis Dashboard** | Built an end-to-end business intelligence dashboard analyzing **$1.2M+ grocery sales across 8,500+ products**. Performed outlet performance analysis by **location tier, outlet size, and establishment year**, identifying top categories like **Fruits & Vegetables and Snacks**. Created interactive visuals and DAX measures for deeper business insights. | `Power BI`, `DAX`, `MySQL` |
-| 🍽 **Zomato Restaurant Data Analysis** | Performed exploratory data analysis on **Zomato restaurant dataset** to uncover patterns in **ratings, cuisines, pricing, and restaurant locations**. Used Excel pivot tables and charts to identify **top cuisines, popular restaurants, and pricing trends**. | `Excel`, `Pivot Tables`, `Data Cleaning`, `Charts` |
-| 🧬 **Drug Prediction & Disease Classification System** | Developed a predictive system using healthcare data to **classify diseases and suggest suitable drugs based on symptoms**. Applied **data preprocessing, feature engineering, and machine learning models** to improve prediction accuracy. | `Python`, `Pandas`, `Scikit-learn`, `Machine Learning` |
+|---------|-------------|------------|
+| 📊 **Grocery Sales Analysis & Visualization** | Built an interactive Power BI dashboard to analyze **$1.2M+ revenue** across **8,500+ products**. Performed data cleaning with Power Query, created DAX-based KPIs, and analyzed sales by outlet type, location, and product category to support business decision-making. | `Power BI` `DAX` `Power Query` |
+| 🩺 **Healthcare Condition Prediction from Drug Reviews** | Developed an NLP-based multi-class classification model using **14,000+ patient drug reviews**. Applied TF-IDF vectorization and compared Logistic Regression, Naive Bayes, and SVM models, achieving **94.77% accuracy** with Logistic Regression. Deployed the model using Flask for real-time predictions. | `Python` `Scikit-learn` `TF-IDF` `Flask` |
+| 👥 **Employee Attrition Prediction** | Built a machine learning model using **15,000 employee records** to predict employee attrition. Performed EDA, feature engineering, and Logistic Regression to identify key drivers of attrition and provide actionable retention insights. | `Python` `Pandas` `Scikit-learn` |
+| 🍽 **Zomato Restaurant Data Analysis** | Performed exploratory data analysis on the Zomato dataset to identify trends in restaurant ratings, cuisines, pricing, and locations. Created Pivot Tables and charts to uncover customer preferences and business insights. | `Excel` `Pivot Tables` `Data Analysis` |
 
 ---
 
